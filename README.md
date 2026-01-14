@@ -11,7 +11,7 @@
   <p>FPS, or <strong>Frames Per Second</strong>, is a critical measure in gaming, video editing, and any digital media that relies on visuals. It tells you how many individual frames your system displays every second. The higher the FPS, the smoother the motion appears on your screen. Low FPS can make games look choppy, videos lag, and animations less responsive, which impacts both performance and user experience.</p>
 
   <h2>What FPS Really Means</h2>
-  <p>Every digital display works by showing a series of images one after another very quickly. These images are called <strong>frames</strong>. When these frames change fast enough, your brain perceives them as smooth motion. For example, a movie typically runs at 24 FPS, which is enough for smooth cinematic playback. However, gaming and interactive applications often need much higher FPS — usually 60 FPS or more — to ensure smooth, responsive motion.</p>
+  <p>Every digital display works by showing a series of images one after another very quickly. These images are called <strong>frames</strong>. When these frames change fast enough, your brain perceives them as smooth motion. For example, a movie typically runs at 24 FPS, which is enough for smooth cinematic playback. However, gaming and interactive applications often need much higher  <a href="https://fps-calculator.com/" target="_blank">FPS check</a>— usually 60 FPS or more — to ensure smooth, responsive motion.</p>
 
   <p>FPS is calculated using a simple formula:</p>
   <pre>FPS = Total Frames Rendered ÷ Total Seconds</pre>
